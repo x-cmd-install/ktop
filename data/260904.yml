@@ -7,7 +7,7 @@ about:
   head: 0ecb4f9
   archived: false
   latestVersion: v0.5.3
-  collectedAt: 2026-09-04T19:26:43Z
+  collectedAt: 2026-09-04T21:04:06Z
 timeline:
   created: 2016-12-29
   lastCommit: 2026-05-15
@@ -81,5 +81,48 @@ total:
   openIssue: 9
   commit: 129
 ---
+path: /home/runner/.x-repo/github.com/vladimirvivien/ktop
+collectedAt: 2026-09-04T21:04:07Z
+loc:
+  Go:
+    code: 18054
+    comments: 2655
+    blanks: 3343
+    files: 74
+  Yaml:
+    code: 978
+    comments: 58
+    blanks: 22
+    files: 14
+  Sh:
+    code: 540
+    comments: 87
+    blanks: 76
+    files: 7
+  Html:
+    code: 110
+    comments: 0
+    blanks: 13
+    files: 1
+  Css:
+    code: 55
+    comments: 11
+    blanks: 13
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 756
+    blanks: 328
+    files: 9
+total:
+  code: 20055
+  comments: 3639
+  blanks: 3852
+  files: 107
 ---
 
