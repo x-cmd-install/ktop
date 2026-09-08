@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13486582,
       "digest": "sha256:f8104e5d09bb764da014ba87e5f75c73f55a26b907e9699f43176848a33dbea6",
-      "download_count": 6166,
+      "download_count": 6170,
       "created_at": "2026-01-12T00:13:04Z",
       "updated_at": "2026-01-12T00:13:04Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/ktop_v0.5.3_linux_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13486577,
       "digest": "sha256:7f58be20c3b14dab954690b9f87e8d1e182e134b48984208e13a2536df1b14ea",
-      "download_count": 13833,
+      "download_count": 13858,
       "created_at": "2026-01-12T00:13:05Z",
       "updated_at": "2026-01-12T00:13:05Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_amd64.tar.gz"
