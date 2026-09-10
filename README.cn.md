@@ -12,6 +12,18 @@ A top-like tool for your Kubernetes cluster metrics
 x install ktop
 ```
 
+## 代码规模
+
+合计: **19,738** 行代码（覆盖前 5 种语言、共 **97** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 18,054 | 2,655 | 3,343 | 74 |
+| Yaml | 978 | 58 | 22 | 14 |
+| Sh | 540 | 87 | 76 | 7 |
+| Html | 110 | 0 | 13 | 1 |
+| Css | 55 | 11 | 13 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/vladimirvivien/ktop>
@@ -23,6 +35,25 @@ x install ktop
 - **最新版本**: `v0.5.3` (2026-01-12)
 - **最近提交**: 2026-05-15
 - **Release 含资产**: 13 个
+
+## 流行度
+
+- **Star**: 1,107 · **Fork**: 25 · **开放 issue**: 77 · **贡献者**: 6
+
+## 累计统计
+
+- **发布数**: 12 · **已合并 PR**: 70 · **开放 PR**: 2 · **已关闭 issue**: 68 · **开放 issue**: 9 · **提交数**: 129
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 2 | 2 | 1 | 5 | 2 |
+| 360d | 2025-09-15 | 4 | 45 | 2 | 41 | 5 | 44 |
+| last720d | 2024-09-20 | 6 | 52 | 2 | 45 | 5 | 54 |
 
 ## Release 资产
 
@@ -42,33 +73,15 @@ x install ktop
 | [kubectl-ktop_v0.5.3_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_armv7.tar.gz) | 12.1 MiB | `native/linux/arm` |
 | [kubectl-ktop_v0.5.3_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_riscv64.tar.gz) | 12.2 MiB | `native/linux/riscv64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 1,107 · **Fork**: 25 · **开放 issue**: 77 · **贡献者**: 6
+在 [repology.org](https://repology.org/project/ktop) 上共有 **11** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 12 · **已合并 PR**: 70 · **开放 PR**: 2 · **已关闭 issue**: 68 · **开放 issue**: 9 · **提交数**: 129
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 4 | 45 | 2 | 41 | 5 | 0 |
-
-## 代码规模
-
-合计: **19,738** 行代码（覆盖前 5 种语言、共 **97** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 18,054 | 2,655 | 3,343 | 74 |
-| Yaml | 978 | 58 | 22 | 14 |
-| Sh | 540 | 87 | 76 | 7 |
-| Html | 110 | 0 | 13 | 1 |
-| Css | 55 | 11 | 13 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.5.3` | ✅ latest |
+| Void | `0.5.3` | ✅ latest |
+| openSUSE Tumbleweed | `0.5.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -79,4 +92,4 @@ ktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:44:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:11Z._
