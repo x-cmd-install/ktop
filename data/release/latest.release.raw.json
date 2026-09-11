@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12579856,
       "digest": "sha256:fa8688b99974c55080d27abb1fb4a1796af5deb59c3c735d482720384c43f456",
-      "download_count": 254,
+      "download_count": 255,
       "created_at": "2026-01-12T00:13:04Z",
       "updated_at": "2026-01-12T00:13:05Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/ktop_v0.5.3_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13486582,
       "digest": "sha256:f8104e5d09bb764da014ba87e5f75c73f55a26b907e9699f43176848a33dbea6",
-      "download_count": 6216,
+      "download_count": 6227,
       "created_at": "2026-01-12T00:13:04Z",
       "updated_at": "2026-01-12T00:13:04Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/ktop_v0.5.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12651352,
       "digest": "sha256:f8fa1be0fa266ebe6fc6eb62cbea7e74fc689d5922e3a07f84a7171a4f2724f5",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2026-01-12T00:13:04Z",
       "updated_at": "2026-01-12T00:13:04Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/ktop_v0.5.3_linux_armv7.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12579847,
       "digest": "sha256:6e3dad2a1ead1d6179cc91edf37265cf6f5e3801346bc584e03022cdff33b444",
-      "download_count": 646,
+      "download_count": 648,
       "created_at": "2026-01-12T00:13:05Z",
       "updated_at": "2026-01-12T00:13:06Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13486577,
       "digest": "sha256:7f58be20c3b14dab954690b9f87e8d1e182e134b48984208e13a2536df1b14ea",
-      "download_count": 14530,
+      "download_count": 14666,
       "created_at": "2026-01-12T00:13:05Z",
       "updated_at": "2026-01-12T00:13:05Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_amd64.tar.gz"
