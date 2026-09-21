@@ -4,7 +4,7 @@
 
 A top-like tool for your Kubernetes cluster metrics
 
-![ktop](https://repo.x-cmd.io/ktop.svg)
+[![x-cmd/install — ktop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ktop.svg)](https://x-cmd.com/install/ktop)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **19,738** lines of code across **97** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 2 | 2 | 1 | 5 | 2 |
-| 360d | 2025-09-23 | 4 | 45 | 2 | 41 | 5 | 44 |
-| last720d | 2024-09-28 | 6 | 52 | 2 | 45 | 5 | 54 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 0 | 1 | 2 | 0 | 5 | 1 |
+| 360d | 2025-09-26 | 4 | 45 | 2 | 41 | 5 | 44 |
+| last720d | 2024-10-01 | 6 | 52 | 2 | 45 | 5 | 54 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:59:21Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:08:49Z._
