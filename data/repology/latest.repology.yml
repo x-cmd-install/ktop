@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: ktop
   visiblename: ktop
-  version: 0.6.0
+  version: 0.6.1
   origversion: null
   status: newest
   summary: Top-like tool for your Kubernetes clusters
