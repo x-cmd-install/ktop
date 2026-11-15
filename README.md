@@ -14,11 +14,11 @@ x install ktop
 
 ## Code insight
 
-Total: **23,510** lines of code across **119** files in the top 5 languages.
+Total: **28,116** lines of code across **132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,825 | 2,943 | 3,897 | 96 |
+| Go | 26,431 | 2,995 | 4,275 | 109 |
 | Yaml | 979 | 58 | 22 | 14 |
 | Sh | 540 | 87 | 76 | 7 |
 | Html | 110 | 0 | 13 | 1 |
@@ -33,27 +33,27 @@ Total: **23,510** lines of code across **119** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.2` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 1,118 · **Forks**: 25 · **Open issues**: 96 · **Contributors**: 6
+- **Stars**: 1,118 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 8 · **Commits**: 153
+- **Releases**: 15 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 9 · **Commits**: 165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 2 | 0 | 16 | 3 | 20 |
-| last60d | 2026-09-15 | 3 | 2 | 0 | 16 | 3 | 20 |
-| 90d | 2026-08-16 | 3 | 2 | 0 | 16 | 3 | 20 |
-| last180d | 2026-05-18 | 3 | 3 | 0 | 17 | 3 | 21 |
-| 360d | 2025-11-19 | 7 | 44 | 0 | 58 | 4 | 61 |
-| last720d | 2024-11-24 | 9 | 56 | 0 | 64 | 4 | 78 |
+| 30d | 2026-10-16 | 3 | 2 | 0 | 16 | 4 | 32 |
+| last60d | 2026-09-16 | 3 | 2 | 0 | 16 | 4 | 32 |
+| 90d | 2026-08-17 | 3 | 2 | 0 | 16 | 4 | 32 |
+| last180d | 2026-05-19 | 3 | 3 | 0 | 17 | 4 | 33 |
+| 360d | 2025-11-20 | 7 | 44 | 0 | 58 | 5 | 65 |
+| last720d | 2024-11-25 | 9 | 56 | 0 | 64 | 5 | 90 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:31:59Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:39:28Z._
