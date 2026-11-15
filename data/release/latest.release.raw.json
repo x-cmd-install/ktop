@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1620,
       "digest": "sha256:3650238e52c368c94a7be6615a94e99e7b51e15fee6758c973e217687bc00c3c",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-11-14T01:13:54Z",
       "updated_at": "2026-11-14T01:13:55Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14219838,
       "digest": "sha256:40288a9ef38310d988ef9a2c67296cd69becfd81ce194542640819bb699a9baf",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-14T01:13:51Z",
       "updated_at": "2026-11-14T01:13:52Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12948948,
       "digest": "sha256:05cda46741f251d68dd0ea2cdcf2810f42f72d22e47b06372172087d15fd2f1d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-14T01:13:49Z",
       "updated_at": "2026-11-14T01:13:50Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13938784,
       "digest": "sha256:5f4e5e6030434b2334b37bb8c1d5b535d7530eb210fe3b0ae25b5389df69a4c4",
-      "download_count": 6,
+      "download_count": 20,
       "created_at": "2026-11-14T01:13:51Z",
       "updated_at": "2026-11-14T01:13:52Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12336782,
       "digest": "sha256:ec7ad46b6a3cd1433eeebf6071988ef239734ad86dbf90dc54b27baea8aa1d75",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-14T01:13:49Z",
       "updated_at": "2026-11-14T01:13:50Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13125046,
       "digest": "sha256:edc6fc8f346e656d4fadf2753d02da102f86cdc4a1250aa4d7fda901d27a486b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-14T01:13:50Z",
       "updated_at": "2026-11-14T01:13:51Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_linux_armv7.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13093195,
       "digest": "sha256:b86064834e58dc7ca7a1174d94a681a8c394f89e403bf40ea35765afc741d891",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-14T01:13:49Z",
       "updated_at": "2026-11-14T01:13:50Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_linux_riscv64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14285874,
       "digest": "sha256:1f7f68722e6707cfa8a78be7e495edea5937239089e986a80bbdf15b1e259456",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-14T01:13:49Z",
       "updated_at": "2026-11-14T01:13:50Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12399506,
       "digest": "sha256:82bc9fea3fe1e1d8629724a1b07d96c44dd72e2cf627483441206a0655096ebb",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-14T01:13:50Z",
       "updated_at": "2026-11-14T01:13:51Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/ktop_v0.6.2_windows_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14219849,
       "digest": "sha256:eaa1f32fe49abf907d5577f01a2167c771b00c57612a22f2d45c6fab718bd118",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-14T01:13:52Z",
       "updated_at": "2026-11-14T01:13:53Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12948947,
       "digest": "sha256:48d7657262ad9e35263f4540d577ca4b299a9f5be5e27331bf007216bfa52aa9",
-      "download_count": 9,
+      "download_count": 27,
       "created_at": "2026-11-14T01:13:52Z",
       "updated_at": "2026-11-14T01:13:53Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13938786,
       "digest": "sha256:4acede01321cf786fc1dc4560ff28cbccf2fd3ab83b123ba40d6fc5e8d166af3",
-      "download_count": 15,
+      "download_count": 35,
       "created_at": "2026-11-14T01:13:52Z",
       "updated_at": "2026-11-14T01:13:53Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12336800,
       "digest": "sha256:6325a9bc5d25c1a40422c2a69f8050228270d6f99b47f8491c6d4ab2ff834847",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-14T01:13:53Z",
       "updated_at": "2026-11-14T01:13:54Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 13125065,
       "digest": "sha256:77dce4707b4376cf039f25924c6f6726067b9802531e281bf7f791feb976dcde",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-14T01:13:53Z",
       "updated_at": "2026-11-14T01:13:54Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_armv7.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 13093193,
       "digest": "sha256:cff975c662a9f166279f7b739e1abadceff878da56739df80a69b91ac20dc478",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-14T01:13:53Z",
       "updated_at": "2026-11-14T01:13:54Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_riscv64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 14285890,
       "digest": "sha256:096b2ea8fec6e432dffc082b2f3fe82217162b1162b6de5570d228cd098ecc4a",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-11-14T01:13:53Z",
       "updated_at": "2026-11-14T01:13:54Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_windows_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 12399522,
       "digest": "sha256:5b534c9fcf587fce132be58ac789a073e463f8ae27d61507f280dc1a11d794cd",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-11-14T01:13:52Z",
       "updated_at": "2026-11-14T01:13:52Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_windows_arm64.zip"
