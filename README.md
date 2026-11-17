@@ -38,7 +38,7 @@ Total: **30,580** lines of code across **143** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,119 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
+- **Stars**: 1,120 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **30,580** lines of code across **143** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 2 | 0 | 16 | 4 | 37 |
-| last60d | 2026-09-17 | 5 | 2 | 0 | 16 | 4 | 37 |
-| 90d | 2026-08-18 | 5 | 2 | 0 | 16 | 4 | 37 |
-| last180d | 2026-05-20 | 5 | 3 | 0 | 17 | 4 | 38 |
-| 360d | 2025-11-21 | 9 | 44 | 0 | 58 | 5 | 70 |
-| last720d | 2024-11-26 | 11 | 56 | 0 | 64 | 5 | 95 |
+| 30d | 2026-10-18 | 5 | 2 | 0 | 16 | 4 | 37 |
+| last60d | 2026-09-18 | 5 | 2 | 0 | 16 | 4 | 37 |
+| 90d | 2026-08-19 | 5 | 2 | 0 | 16 | 4 | 37 |
+| last180d | 2026-05-21 | 5 | 3 | 0 | 17 | 4 | 38 |
+| 360d | 2025-11-22 | 9 | 42 | 0 | 56 | 5 | 70 |
+| last720d | 2024-11-27 | 11 | 56 | 0 | 64 | 5 | 95 |
 
 ## Release assets
 
@@ -83,7 +83,7 @@ Reported by **11** distros on [repology.org](https://repology.org/project/ktop).
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.7.0` | ✅ latest |
+| Homebrew | `0.7.1` | ✅ latest |
 | Void | `0.5.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.6.1` | ⚠️ outdated |
 
@@ -96,4 +96,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:39:19Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:35:19Z._
