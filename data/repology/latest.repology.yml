@@ -1,14 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: ktop
-  visiblename: ktop
-  version: 0.3.7
-  origversion: null
-  status: outdated
-  summary: Top-like tool for your Kubernetes cluster
-  maintainers:
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: ktop-bin
   binname: ktop-bin
@@ -21,6 +10,17 @@
     - dmdutra@aur
   licenses:
     - Apache-20
+- repo: nix_stable_25_05
+  srcname: ktop
+  visiblename: ktop
+  version: 0.3.7
+  origversion: null
+  status: outdated
+  summary: Top-like tool for your Kubernetes cluster
+  maintainers:
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: ktop-git
   binname: ktop-git
@@ -33,10 +33,21 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3
+- repo: nix_stable_25_11
+  srcname: ktop
+  visiblename: ktop
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: Top-like tool for your Kubernetes cluster
+  maintainers:
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: homebrew
   srcname: ktop
   visiblename: ktop
-  version: 0.7.1
+  version: 0.7.2
   origversion: null
   status: newest
   summary: Top-like tool for your Kubernetes clusters
@@ -58,21 +69,10 @@
     - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_05
+- repo: nix_stable_24_11
   srcname: ktop
   visiblename: ktop
   version: 0.3.7
-  origversion: null
-  status: outdated
-  summary: Top-like tool for your Kubernetes cluster
-  maintainers:
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: ktop
-  visiblename: ktop
-  version: 0.4.1
   origversion: null
   status: outdated
   summary: Top-like tool for your Kubernetes cluster
