@@ -38,7 +38,7 @@ Total: **31,965** lines of code across **148** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,120 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
+- **Stars**: 1,119 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **31,965** lines of code across **148** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 6 | 2 | 0 | 16 | 4 | 40 |
-| last60d | 2026-09-20 | 6 | 2 | 0 | 16 | 4 | 40 |
-| 90d | 2026-08-21 | 6 | 2 | 0 | 16 | 4 | 40 |
-| last180d | 2026-05-23 | 6 | 3 | 0 | 17 | 4 | 41 |
-| 360d | 2025-11-24 | 10 | 37 | 0 | 52 | 5 | 73 |
-| last720d | 2024-11-29 | 12 | 56 | 0 | 64 | 5 | 98 |
+| 30d | 2026-10-21 | 6 | 2 | 0 | 16 | 4 | 40 |
+| last60d | 2026-09-21 | 6 | 2 | 0 | 16 | 4 | 40 |
+| 90d | 2026-08-22 | 6 | 2 | 0 | 16 | 4 | 40 |
+| last180d | 2026-05-24 | 6 | 3 | 0 | 17 | 4 | 41 |
+| 360d | 2025-11-25 | 10 | 36 | 0 | 51 | 5 | 73 |
+| last720d | 2024-11-30 | 12 | 56 | 0 | 64 | 5 | 98 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:02:49Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:32:16Z._
