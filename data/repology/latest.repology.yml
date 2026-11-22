@@ -1,25 +1,34 @@
-- repo: nix_stable_25_05
+- repo: aur
+  srcname: ktop-bin
+  binname: ktop-bin
+  visiblename: ktop-bin
+  version: 0.5.3
+  origversion: 0.5.3-1
+  status: outdated
+  summary: A top-like tool for your Kubernetes cluster metrics
+  maintainers:
+    - dmdutra@aur
+  licenses:
+    - Apache-20
+- repo: aur
+  srcname: ktop-git
+  binname: ktop-git
+  visiblename: ktop-git
+  version: 1.5.1b.r37.gd0c148b
+  origversion: 1.5.1b.r37.gd0c148b-1
+  status: rolling
+  summary: Make Persian EPUBs compatible to E-Readers such as Kindle
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL3
+- repo: homebrew
   srcname: ktop
   visiblename: ktop
-  version: 0.3.7
+  version: 0.7.4
   origversion: null
-  status: outdated
-  summary: Top-like tool for your Kubernetes cluster
-  maintainers:
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: ktop
-  visiblename: ktop
-  version: 0.4.1
-  origversion: null
-  status: outdated
-  summary: Top-like tool for your Kubernetes cluster
-  maintainers:
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
+  status: newest
+  summary: Top-like tool for your Kubernetes clusters
 - repo: homebrew
   srcname: ktop
   visiblename: ktop
@@ -49,37 +58,28 @@
     - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: ktop
   visiblename: ktop
-  version: 0.7.3
+  version: 0.3.7
   origversion: null
-  status: newest
-  summary: Top-like tool for your Kubernetes clusters
-- repo: aur
-  srcname: ktop-bin
-  binname: ktop-bin
-  visiblename: ktop-bin
-  version: 0.5.3
-  origversion: 0.5.3-1
   status: outdated
-  summary: A top-like tool for your Kubernetes cluster metrics
+  summary: Top-like tool for your Kubernetes cluster
   maintainers:
-    - dmdutra@aur
+    - github@une-pause-cafe.fr
   licenses:
-    - Apache-20
-- repo: aur
-  srcname: ktop-git
-  binname: ktop-git
-  visiblename: ktop-git
-  version: 1.5.1b.r37.gd0c148b
-  origversion: 1.5.1b.r37.gd0c148b-1
-  status: rolling
-  summary: Make Persian EPUBs compatible to E-Readers such as Kindle
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: ktop
+  visiblename: ktop
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: Top-like tool for your Kubernetes cluster
   maintainers:
-    - fallback-mnt-aur@repology
+    - github@une-pause-cafe.fr
   licenses:
-    - GPL3
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: ktop
   visiblename: ktop
