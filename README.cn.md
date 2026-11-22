@@ -14,11 +14,11 @@ x install ktop
 
 ## 代码洞察
 
-合计: **36,423** 行代码（覆盖前 5 种语言、共 **158** 个文件）。
+合计: **37,599** 行代码（覆盖前 5 种语言、共 **162** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 34,399 | 3,172 | 5,128 | 135 |
+| Go | 35,575 | 3,182 | 5,217 | 139 |
 | Yaml | 980 | 58 | 22 | 14 |
 | Sh | 878 | 68 | 62 | 7 |
 | Html | 110 | 0 | 13 | 1 |
@@ -32,8 +32,8 @@ x install ktop
 
 ## 发布
 
-- **最新版本**: `v0.7.3` (2026-11-20)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v0.7.4` (2026-11-21)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 17 个
 
 ## 流行度
@@ -42,40 +42,40 @@ x install ktop
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 74 · **开放 PR**: 0 · **已关闭 issue**: 88 · **开放 issue**: 9 · **提交数**: 182
+- **发布数**: 20 · **已合并 PR**: 74 · **开放 PR**: 0 · **已关闭 issue**: 88 · **开放 issue**: 9 · **提交数**: 188
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 7 | 2 | 0 | 16 | 4 | 49 |
-| last60d | 2026-09-22 | 7 | 2 | 0 | 16 | 4 | 49 |
-| 90d | 2026-08-23 | 7 | 2 | 0 | 16 | 4 | 49 |
-| last180d | 2026-05-25 | 7 | 3 | 0 | 17 | 4 | 50 |
-| 360d | 2025-11-26 | 11 | 36 | 0 | 51 | 5 | 82 |
-| last720d | 2024-12-01 | 13 | 56 | 0 | 64 | 5 | 107 |
+| 30d | 2026-10-23 | 8 | 2 | 0 | 16 | 4 | 55 |
+| last60d | 2026-09-23 | 8 | 2 | 0 | 16 | 4 | 55 |
+| 90d | 2026-08-24 | 8 | 2 | 0 | 16 | 4 | 55 |
+| last180d | 2026-05-26 | 8 | 3 | 0 | 17 | 4 | 56 |
+| 360d | 2025-11-27 | 12 | 35 | 0 | 50 | 5 | 77 |
+| last720d | 2024-12-02 | 14 | 56 | 0 | 64 | 5 | 113 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/checksums.txt) | 1.6 KiB | `other` |
-| [ktop_v0.7.3_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_darwin_amd64.tar.gz) | 13.8 MiB | `native/darwin/x64` |
-| [ktop_v0.7.3_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_darwin_arm64.tar.gz) | 12.5 MiB | `native/darwin/arm64` |
-| [ktop_v0.7.3_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_linux_amd64.tar.gz) | 13.5 MiB | `native/linux/x64` |
-| [ktop_v0.7.3_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
-| [ktop_v0.7.3_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_linux_armv7.tar.gz) | 12.7 MiB | `native/linux/arm` |
-| [ktop_v0.7.3_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_linux_riscv64.tar.gz) | 12.7 MiB | `native/linux/riscv64` |
-| [ktop_v0.7.3_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_windows_amd64.zip) | 13.8 MiB | `native/win/x64` |
-| [ktop_v0.7.3_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/ktop_v0.7.3_windows_arm64.zip) | 12.0 MiB | `native/win/arm64` |
-| [kubectl-ktop_v0.7.3_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_darwin_amd64.tar.gz) | 13.8 MiB | `native/darwin/x64` |
-| [kubectl-ktop_v0.7.3_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_darwin_arm64.tar.gz) | 12.5 MiB | `native/darwin/arm64` |
-| [kubectl-ktop_v0.7.3_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_linux_amd64.tar.gz) | 13.5 MiB | `native/linux/x64` |
-| [kubectl-ktop_v0.7.3_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
-| [kubectl-ktop_v0.7.3_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_linux_armv7.tar.gz) | 12.7 MiB | `native/linux/arm` |
-| [kubectl-ktop_v0.7.3_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_linux_riscv64.tar.gz) | 12.7 MiB | `native/linux/riscv64` |
-| [kubectl-ktop_v0.7.3_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_windows_amd64.zip) | 13.8 MiB | `native/win/x64` |
-| [kubectl-ktop_v0.7.3_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.3/kubectl-ktop_v0.7.3_windows_arm64.zip) | 12.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/checksums.txt) | 1.6 KiB | `other` |
+| [ktop_v0.7.4_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_darwin_amd64.tar.gz) | 13.8 MiB | `native/darwin/x64` |
+| [ktop_v0.7.4_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_darwin_arm64.tar.gz) | 12.6 MiB | `native/darwin/arm64` |
+| [ktop_v0.7.4_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_linux_amd64.tar.gz) | 13.5 MiB | `native/linux/x64` |
+| [ktop_v0.7.4_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
+| [ktop_v0.7.4_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_linux_armv7.tar.gz) | 12.7 MiB | `native/linux/arm` |
+| [ktop_v0.7.4_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_linux_riscv64.tar.gz) | 12.7 MiB | `native/linux/riscv64` |
+| [ktop_v0.7.4_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_windows_amd64.zip) | 13.9 MiB | `native/win/x64` |
+| [ktop_v0.7.4_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/ktop_v0.7.4_windows_arm64.zip) | 12.0 MiB | `native/win/arm64` |
+| [kubectl-ktop_v0.7.4_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_darwin_amd64.tar.gz) | 13.8 MiB | `native/darwin/x64` |
+| [kubectl-ktop_v0.7.4_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_darwin_arm64.tar.gz) | 12.6 MiB | `native/darwin/arm64` |
+| [kubectl-ktop_v0.7.4_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_linux_amd64.tar.gz) | 13.5 MiB | `native/linux/x64` |
+| [kubectl-ktop_v0.7.4_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_linux_arm64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
+| [kubectl-ktop_v0.7.4_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_linux_armv7.tar.gz) | 12.7 MiB | `native/linux/arm` |
+| [kubectl-ktop_v0.7.4_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_linux_riscv64.tar.gz) | 12.7 MiB | `native/linux/riscv64` |
+| [kubectl-ktop_v0.7.4_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_windows_amd64.zip) | 13.9 MiB | `native/win/x64` |
+| [kubectl-ktop_v0.7.4_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.4/kubectl-ktop_v0.7.4_windows_arm64.zip) | 12.0 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
@@ -83,7 +83,7 @@ x install ktop
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.7.4` | ✅ latest |
 | Void | `0.5.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.6.1` | ⚠️ outdated |
 
@@ -96,4 +96,4 @@ ktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T07:19:02Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:01:07Z._
