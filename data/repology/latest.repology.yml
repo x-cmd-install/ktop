@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: ktop
+  visiblename: ktop
+  version: 0.7.5
+  origversion: null
+  status: newest
+  summary: Top-like tool for your Kubernetes clusters
 - repo: aur
   srcname: ktop-bin
   binname: ktop-bin
@@ -22,13 +29,6 @@
     - fallback-mnt-aur@repology
   licenses:
     - GPL3
-- repo: homebrew
-  srcname: ktop
-  visiblename: ktop
-  version: 0.7.4
-  origversion: null
-  status: newest
-  summary: Top-like tool for your Kubernetes clusters
 - repo: homebrew
   srcname: ktop
   visiblename: ktop
