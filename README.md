@@ -38,22 +38,22 @@ Total: **43,251** lines of code across **187** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,120 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
+- **Stars**: 1,122 · **Forks**: 25 · **Open issues**: 97 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 9 · **Commits**: 202
+- **Releases**: 23 · **Merged PRs**: 74 · **Open PRs**: 1 · **Closed issues**: 88 · **Open issues**: 9 · **Commits**: 202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 11 | 2 | 0 | 16 | 4 | 69 |
-| last60d | 2026-09-25 | 11 | 2 | 0 | 16 | 4 | 69 |
-| 90d | 2026-08-26 | 11 | 2 | 0 | 16 | 4 | 69 |
-| last180d | 2026-05-28 | 11 | 3 | 0 | 16 | 4 | 70 |
-| 360d | 2025-11-29 | 15 | 29 | 0 | 44 | 5 | 91 |
-| last720d | 2024-12-04 | 17 | 56 | 0 | 64 | 5 | 127 |
+| 30d | 2026-10-26 | 11 | 2 | 1 | 16 | 4 | 69 |
+| last60d | 2026-09-26 | 11 | 2 | 1 | 16 | 4 | 69 |
+| 90d | 2026-08-27 | 11 | 2 | 1 | 16 | 4 | 69 |
+| last180d | 2026-05-29 | 11 | 3 | 1 | 16 | 4 | 70 |
+| 360d | 2025-11-30 | 15 | 26 | 1 | 41 | 5 | 91 |
+| last720d | 2024-12-05 | 17 | 56 | 1 | 64 | 5 | 127 |
 
 ## Release assets
 
@@ -77,16 +77,6 @@ Total: **43,251** lines of code across **187** files in the top 5 languages.
 | [kubectl-ktop_v0.7.7_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.7/kubectl-ktop_v0.7.7_windows_amd64.zip) | 11.4 MiB | `native/win/x64` |
 | [kubectl-ktop_v0.7.7_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.7/kubectl-ktop_v0.7.7_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/ktop). **1** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.7.7` | ✅ latest |
-| Void | `0.5.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.7.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +86,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:04:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:01:11Z._
