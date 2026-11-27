@@ -14,13 +14,13 @@ x install ktop
 
 ## Code insight
 
-Total: **43,897** lines of code across **187** files in the top 5 languages.
+Total: **48,712** lines of code across **203** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 41,873 | 3,386 | 5,779 | 164 |
+| Go | 46,257 | 3,472 | 6,125 | 180 |
+| Sh | 1,309 | 70 | 66 | 7 |
 | Yaml | 980 | 58 | 22 | 14 |
-| Sh | 878 | 68 | 62 | 7 |
 | Html | 110 | 0 | 13 | 1 |
 | Css | 55 | 11 | 13 | 1 |
 
@@ -32,7 +32,7 @@ Total: **43,897** lines of code across **187** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.8` (2026-11-25)
+- **Latest**: `v0.7.9` (2026-11-26)
 - **Last commit**: 2026-11-25
 - **Assets in release**: 17
 
@@ -42,40 +42,40 @@ Total: **43,897** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 75 · **Open PRs**: 0 · **Closed issues**: 89 · **Open issues**: 9 · **Commits**: 204
+- **Releases**: 25 · **Merged PRs**: 75 · **Open PRs**: 0 · **Closed issues**: 90 · **Open issues**: 8 · **Commits**: 208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 12 | 3 | 0 | 17 | 4 | 0 |
-| last60d | 2026-09-27 | 12 | 3 | 0 | 17 | 4 | 0 |
-| 90d | 2026-08-28 | 12 | 3 | 0 | 17 | 4 | 0 |
-| last180d | 2026-05-30 | 12 | 4 | 0 | 17 | 4 | 0 |
-| 360d | 2025-12-01 | 16 | 26 | 0 | 41 | 5 | 0 |
-| last720d | 2024-12-06 | 18 | 57 | 0 | 65 | 5 | 129 |
+| 30d | 2026-10-28 | 13 | 3 | 0 | 18 | 3 | 75 |
+| last60d | 2026-09-28 | 13 | 3 | 0 | 18 | 3 | 75 |
+| 90d | 2026-08-29 | 13 | 3 | 0 | 18 | 3 | 75 |
+| last180d | 2026-05-31 | 13 | 4 | 0 | 18 | 3 | 76 |
+| 360d | 2025-12-02 | 17 | 26 | 0 | 42 | 4 | 97 |
+| last720d | 2024-12-07 | 19 | 57 | 0 | 66 | 4 | 133 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/checksums.txt) | 1.6 KiB | `other` |
-| [ktop_v0.7.8_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_darwin_amd64.tar.gz) | 11.4 MiB | `native/darwin/x64` |
-| [ktop_v0.7.8_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_darwin_arm64.tar.gz) | 10.3 MiB | `native/darwin/arm64` |
-| [ktop_v0.7.8_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_linux_amd64.tar.gz) | 11.1 MiB | `native/linux/x64` |
-| [ktop_v0.7.8_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
-| [ktop_v0.7.8_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_linux_armv7.tar.gz) | 10.6 MiB | `native/linux/arm` |
-| [ktop_v0.7.8_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_linux_riscv64.tar.gz) | 10.4 MiB | `native/linux/riscv64` |
-| [ktop_v0.7.8_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_windows_amd64.zip) | 11.4 MiB | `native/win/x64` |
-| [ktop_v0.7.8_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/ktop_v0.7.8_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
-| [kubectl-ktop_v0.7.8_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_darwin_amd64.tar.gz) | 11.4 MiB | `native/darwin/x64` |
-| [kubectl-ktop_v0.7.8_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_darwin_arm64.tar.gz) | 10.3 MiB | `native/darwin/arm64` |
-| [kubectl-ktop_v0.7.8_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_linux_amd64.tar.gz) | 11.1 MiB | `native/linux/x64` |
-| [kubectl-ktop_v0.7.8_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
-| [kubectl-ktop_v0.7.8_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_linux_armv7.tar.gz) | 10.6 MiB | `native/linux/arm` |
-| [kubectl-ktop_v0.7.8_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_linux_riscv64.tar.gz) | 10.4 MiB | `native/linux/riscv64` |
-| [kubectl-ktop_v0.7.8_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_windows_amd64.zip) | 11.4 MiB | `native/win/x64` |
-| [kubectl-ktop_v0.7.8_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.8/kubectl-ktop_v0.7.8_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/checksums.txt) | 1.6 KiB | `other` |
+| [ktop_v0.7.9_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_darwin_amd64.tar.gz) | 11.6 MiB | `native/darwin/x64` |
+| [ktop_v0.7.9_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_darwin_arm64.tar.gz) | 10.5 MiB | `native/darwin/arm64` |
+| [ktop_v0.7.9_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_amd64.tar.gz) | 11.3 MiB | `native/linux/x64` |
+| [ktop_v0.7.9_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
+| [ktop_v0.7.9_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_armv7.tar.gz) | 10.7 MiB | `native/linux/arm` |
+| [ktop_v0.7.9_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_riscv64.tar.gz) | 10.5 MiB | `native/linux/riscv64` |
+| [ktop_v0.7.9_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_windows_amd64.zip) | 11.5 MiB | `native/win/x64` |
+| [ktop_v0.7.9_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_windows_arm64.zip) | 10.0 MiB | `native/win/arm64` |
+| [kubectl-ktop_v0.7.9_darwin_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_darwin_amd64.tar.gz) | 11.6 MiB | `native/darwin/x64` |
+| [kubectl-ktop_v0.7.9_darwin_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_darwin_arm64.tar.gz) | 10.5 MiB | `native/darwin/arm64` |
+| [kubectl-ktop_v0.7.9_linux_amd64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_amd64.tar.gz) | 11.3 MiB | `native/linux/x64` |
+| [kubectl-ktop_v0.7.9_linux_arm64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
+| [kubectl-ktop_v0.7.9_linux_armv7.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_armv7.tar.gz) | 10.7 MiB | `native/linux/arm` |
+| [kubectl-ktop_v0.7.9_linux_riscv64.tar.gz](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_riscv64.tar.gz) | 10.5 MiB | `native/linux/riscv64` |
+| [kubectl-ktop_v0.7.9_windows_amd64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_windows_amd64.zip) | 11.5 MiB | `native/win/x64` |
+| [kubectl-ktop_v0.7.9_windows_arm64.zip](https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_windows_arm64.zip) | 10.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for ktop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:27:38Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:46:15Z._
