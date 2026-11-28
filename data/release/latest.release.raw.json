@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1620,
       "digest": "sha256:16f529576deb5667253e7ceaa4f1461f56ba672e96d1844edfe01bd1cd63b037",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-26T14:29:37Z",
       "updated_at": "2026-11-26T14:29:37Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12135651,
       "digest": "sha256:31733b2ae64a4f8302a4ae76a973780859aadb6db30b862d307bb6683cec33d8",
-      "download_count": 5,
+      "download_count": 34,
       "created_at": "2026-11-26T14:29:34Z",
       "updated_at": "2026-11-26T14:29:35Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10983676,
       "digest": "sha256:8796df5c3d4ed83de22a1a331ade1a989cdd5164688fc4d0255cc64587f62ab0",
-      "download_count": 4,
+      "download_count": 37,
       "created_at": "2026-11-26T14:29:34Z",
       "updated_at": "2026-11-26T14:29:34Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11845485,
       "digest": "sha256:4b47308a97068266e364c84493e163395f4e362f7bbe2129881e90168f6fe7f0",
-      "download_count": 44,
+      "download_count": 156,
       "created_at": "2026-11-26T14:29:34Z",
       "updated_at": "2026-11-26T14:29:34Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10423567,
       "digest": "sha256:acac1f0b1fb09c9b3aa260ffdcbaf5d6d7802e4ffb2c1c649388a9cd9f9bfa49",
-      "download_count": 4,
+      "download_count": 39,
       "created_at": "2026-11-26T14:29:34Z",
       "updated_at": "2026-11-26T14:29:34Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11231881,
       "digest": "sha256:0cd744061747c482c85b8236be9ec22979a5148b0947431c34ac05407783965b",
-      "download_count": 1,
+      "download_count": 19,
       "created_at": "2026-11-26T14:29:32Z",
       "updated_at": "2026-11-26T14:29:33Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_linux_armv7.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12072861,
       "digest": "sha256:5dd736a4d6f3032f7edf07944a583b07f7893f745ace182f191504f33ca99600",
-      "download_count": 4,
+      "download_count": 46,
       "created_at": "2026-11-26T14:29:32Z",
       "updated_at": "2026-11-26T14:29:34Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10482620,
       "digest": "sha256:44137767bf7572aff1edf307db33fb78092602736154d676899ded356e36a6f2",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-11-26T14:29:32Z",
       "updated_at": "2026-11-26T14:29:33Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/ktop_v0.7.9_windows_arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10983682,
       "digest": "sha256:d4fba89f4789c57e3bfbb8f4e6e50d33662048a5afb05524bf507bb71ae4cffd",
-      "download_count": 21,
+      "download_count": 32,
       "created_at": "2026-11-26T14:29:35Z",
       "updated_at": "2026-11-26T14:29:36Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_darwin_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 11845480,
       "digest": "sha256:6c68843934321b712ea6a61a2989aa56f0f254504820db744e72b2b97fbd30a3",
-      "download_count": 43,
+      "download_count": 64,
       "created_at": "2026-11-26T14:29:36Z",
       "updated_at": "2026-11-26T14:29:37Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10423561,
       "digest": "sha256:cfe9299c2c39b9d04be54d63771cb19d6ab0a8adc6d0093b3ec0c6bb46d70d96",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-26T14:29:36Z",
       "updated_at": "2026-11-26T14:29:37Z",
       "browser_download_url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.9/kubectl-ktop_v0.7.9_linux_arm64.tar.gz"
@@ -651,5 +651,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/vladimirvivien/ktop/tarball/v0.7.9",
   "zipball_url": "https://api.github.com/repos/vladimirvivien/ktop/zipball/v0.7.9",
-  "body": "# ktop Release v0.7.9\n\n`ktop` v0.7.9 introduces the `[4] Storage` and `[5] Network` TUI tabs, live kubelet volume capacity and inode utilization telemetry, EndpointSlice readiness health tracking, cAdvisor network packet drop and error rates, matching `--noui` snapshot schema additions, and Pod Detail storage/network enrichments ([#178](https://github.com/vladimirvivien/ktop/issues/178)).\n\n---\n\n## Detailed Changes by Category\n\n### 1. Storage Telemetry & `[4] Storage` Tab (`prom`, `metrics`, `views/model`, `k8s`, `views/storage`)\n\n- **Kubelet Volume Metrics Scraping (`prom/types.go`, `metrics/source.go`, `metrics/prom/prom_source.go`)**: Added `kubelet_volume_stats_{capacity_bytes,used_bytes,available_bytes,inodes,inodes_used}` to `DefaultMetricAllowlist` and implemented `metrics.VolumeStatsProvider` (`PromMetricsSource.GetAllVolumeStats`) to aggregate per-PVC byte usage, fill percentage, and inode utilization percentages.\n- **Storage View Models & Controller (`views/model/storage_model.go`, `k8s/client_controller.go`, `k8s/storage_controller.go`)**: Added normalized `PVCModel`, `PVModel`, `StorageClassModel`, `StorageSummary`, and `StorageSnapshot` types alongside sorting helpers (`SortPVCModelsBy`, `SortPVModelsBy`). Added startup RBAC capability checks for `StorageClass` alongside existing `PersistentVolume` and `PersistentVolumeClaim` informers, exposing `Controller.GetStorageSnapshot` and `SetStorageRefreshFunc`.\n- **`[4] Storage` TUI Page (`views/storage/summary.go`, `views/storage/page.go`)**: Added a 1-line summary bar displaying bound/pending PVCs, `>=85%` fill alert count, PV bound totals, StorageClasses, used/capacity totals, and disk read/write rates, paired with interactive sortable/filterable `PersistentVolumeClaims` (`FILL%` and `INODES%` highlighted at `>=85%` warning and `>=95%` error thresholds) and `PersistentVolumes` tables, `y` clipboard copy, `/` row filtering, global namespace filter sync, and `Enter` YAML inspection modals.\n\n### 2. Network Telemetry & `[5] Network` Tab (`prom`, `metrics`, `views/model`, `k8s`, `views/network`)\n\n- **cAdvisor Drop & Error Counters (`prom/types.go`, `prom/scraper.go`, `metrics/source.go`, `metrics/prom/prom_source.go`)**: Added `container_network_{receive,transmit}_{packets_dropped,errors}_total` to `DefaultMetricAllowlist` and updated `shouldKeepCAdvisorSeries` to retain both node-root (`id=\"/\"`) and pod-sandbox (`container=\"POD\"`) series for drop and error counters. Implemented `metrics.NetworkErrorsProvider` (`GetClusterNetworkErrorRates` and `GetPodNetworkErrorRates`).\n- **Network View Models & Controller (`views/model/network_model.go`, `k8s/client_controller.go`, `k8s/network_controller.go`)**: Added normalized `ServiceModel` (with `HasEndpointAlert()`), `IngressModel`, `NodeNetworkModel`, `NetworkSummary`, and `NetworkSnapshot` types with `SortServiceModelsBy` and `SortIngressModelsBy`. Added RBAC-gated informers for `Service`, `EndpointSlice` (`discovery.k8s.io/v1`), and `Ingress` with deduplicated ready/total endpoint aggregation in `Controller.GetNetworkSnapshot`.\n- **`[5] Network` TUI Page (`views/network/summary.go`, `views/network/page.go`)**: Added a summary strip reporting total Services, zero-endpoint alert counts, Ingresses, cluster RX/TX throughput, and drop/error rates, paired with `Services` (highlighting selector-backed services with zero ready endpoints) and `Ingresses` tables, `/` row filtering, `y` copy, and `Enter` YAML modals.\n\n### 3. Snapshots, Pod Detail, Navigation & Documentation (`internal/snapshot`, `collector`, `views/overview`, `views/pod`, `application`, `config`, `cmd`, `ui`, `docs`, `hack/load-test`)\n\n- **Headless Snapshot & Collector Support (`internal/snapshot/snapshot.go`, `internal/snapshot/builder.go`, `collector/collector.go`, `collector/k8s_provider.go`)**: Extended `Snapshot`, `BuildInput`, and `collector.Aggregate` with `Storage` (`*StorageData`) and `Network` (`*NetworkData`) sections, added `VolumeUsages`, `NetworkDropsPerSec`, and `NetworkErrorsPerSec` on `PodData`, and updated `Snapshot.Clone()` to deep-copy all nested slices.\n- **Pod Detail Enrichments (`views/overview/main_panel.go`, `views/pod/detail.go`)**: Joined mounted PVC usage stats and per-pod network drop/error rates in `buildPodDetailData`, rendering `PVCs:` fill percentages (colored at `>=85%` and `>=95%`) and non-zero `NetErr:` counters inside the Pod Detail view.\n- **Navigation, CLI, Docs & Load Test Fixtures (`application/`, `config/`, `cmd/`, `ui/`, `docs/`, `hack/load-test/`)**: Registered `[4] Storage` (`PageStorage`) and `[5] Network` (`PageNetwork`), added `storage` and `network` to `--page` / `ui.default_page` validation and `ui.StorageContext` / `ui.NetworkContext` footers, updated `docs/cli.md`, `docs/noui.md`, and `docs/prometheus.md`, and expanded `hack/load-test/` with live PVC/PV disk I/O and Service/Ingress/HTTP traffic workloads.\n\n---\n\n## Upgrade & Compatibility Notes\n\n- **Backward Compatibility**: Fully compatible with existing CLI flags, `kubectl ktop` plugin invocation, `~/.ktop/config.yaml`, and existing `--noui` JSON/JSONL consumers; new `storage`, `network`, and per-pod fields are additive with `omitempty`.\n- **RBAC Resilience**: `StorageClass`, `Service`, `EndpointSlice`, and `Ingress` informers probe cluster permissions on startup and degrade without error if RBAC restricts listing optional resources.\n- **Deprecations & Migration Actions**: None.\n\n---\n\n## Repository Metrics\n\n```text\n43 files changed, 5423 insertions(+), 86 deletions(-)\n```\n\n- **Documentation**:\n  - [CLI Reference](https://github.com/vladimirvivien/ktop/blob/main/docs/cli.md)\n  - [Non-Interactive Mode (`--noui`)](https://github.com/vladimirvivien/ktop/blob/main/docs/noui.md)\n  - [Prometheus Integration](https://github.com/vladimirvivien/ktop/blob/main/docs/prometheus.md)\n"
+  "body": "# ktop Release v0.7.9\n\n`ktop` v0.7.9 introduces the `[4] Storage` and `[5] Network` TUI tabs, live kubelet volume capacity and inode utilization telemetry, EndpointSlice readiness health tracking, cAdvisor network packet drop and error rates, matching `--noui` snapshot schema additions, and Pod Detail storage/network enrichments ([#178](https://github.com/vladimirvivien/ktop/issues/178)).\n\n---\n\n## Detailed Changes by Category\n\n### 1. Storage Telemetry & `[4] Storage` Tab (`prom`, `metrics`, `views/model`, `k8s`, `views/storage`)\n\n- **Kubelet Volume Metrics Scraping (`prom/types.go`, `metrics/source.go`, `metrics/prom/prom_source.go`)**: Added `kubelet_volume_stats_{capacity_bytes,used_bytes,available_bytes,inodes,inodes_used}` to `DefaultMetricAllowlist` and implemented `metrics.VolumeStatsProvider` (`PromMetricsSource.GetAllVolumeStats`) to aggregate per-PVC byte usage, fill percentage, and inode utilization percentages.\n- **Storage View Models & Controller (`views/model/storage_model.go`, `k8s/client_controller.go`, `k8s/storage_controller.go`)**: Added normalized `PVCModel`, `PVModel`, `StorageClassModel`, `StorageSummary`, and `StorageSnapshot` types alongside sorting helpers (`SortPVCModelsBy`, `SortPVModelsBy`). Added startup RBAC capability checks for `StorageClass` alongside existing `PersistentVolume` and `PersistentVolumeClaim` informers, exposing `Controller.GetStorageSnapshot` and `SetStorageRefreshFunc`.\n- **`[4] Storage` TUI Page (`views/storage/summary.go`, `views/storage/page.go`)**: Added a 1-line summary bar displaying bound/pending PVCs, `>=85%` fill alert count, PV bound totals, StorageClasses, used/capacity totals, and disk read/write rates, paired with interactive sortable/filterable `PersistentVolumeClaims` (`FILL%` and `INODES%` highlighted at `>=85%` warning and `>=95%` error thresholds) and `PersistentVolumes` tables, `y` clipboard copy, `/` row filtering, global namespace filter sync, and `Enter` YAML inspection modals.\n\n### 2. Network Telemetry & `[5] Network` Tab (`prom`, `metrics`, `views/model`, `k8s`, `views/network`)\n\n- **cAdvisor Drop & Error Counters (`prom/types.go`, `prom/scraper.go`, `metrics/source.go`, `metrics/prom/prom_source.go`)**: Added `container_network_{receive,transmit}_{packets_dropped,errors}_total` to `DefaultMetricAllowlist` and updated `shouldKeepCAdvisorSeries` to retain both node-root (`id=\"/\"`) and pod-sandbox (`container=\"POD\"`) series for drop and error counters. Implemented `metrics.NetworkErrorsProvider` (`GetClusterNetworkErrorRates` and `GetPodNetworkErrorRates`).\n- **Network View Models & Controller (`views/model/network_model.go`, `k8s/client_controller.go`, `k8s/network_controller.go`)**: Added normalized `ServiceModel` (with `HasEndpointAlert()`), `IngressModel`, `NodeNetworkModel`, `NetworkSummary`, and `NetworkSnapshot` types with `SortServiceModelsBy` and `SortIngressModelsBy`. Added RBAC-gated informers for `Service`, `EndpointSlice` (`discovery.k8s.io/v1`), and `Ingress` with deduplicated ready/total endpoint aggregation in `Controller.GetNetworkSnapshot`.\n- **`[5] Network` TUI Page (`views/network/summary.go`, `views/network/page.go`)**: Added a summary strip reporting total Services, zero-endpoint alert counts, Ingresses, cluster RX/TX throughput, and drop/error rates, paired with `Services` (highlighting selector-backed services with zero ready endpoints) and `Ingresses` tables, `/` row filtering, `y` copy, and `Enter` YAML modals.\n\n### 3. Snapshots, Pod Detail, Navigation & Documentation (`internal/snapshot`, `collector`, `views/overview`, `views/pod`, `application`, `config`, `cmd`, `ui`, `docs`, `hack/load-test`)\n\n- **Headless Snapshot & Collector Support (`internal/snapshot/snapshot.go`, `internal/snapshot/builder.go`, `collector/collector.go`, `collector/k8s_provider.go`)**: Extended `Snapshot`, `BuildInput`, and `collector.Aggregate` with `Storage` (`*StorageData`) and `Network` (`*NetworkData`) sections, added `VolumeUsages`, `NetworkDropsPerSec`, and `NetworkErrorsPerSec` on `PodData`, and updated `Snapshot.Clone()` to deep-copy all nested slices.\n- **Pod Detail Enrichments (`views/overview/main_panel.go`, `views/pod/detail.go`)**: Joined mounted PVC usage stats and per-pod network drop/error rates in `buildPodDetailData`, rendering `PVCs:` fill percentages (colored at `>=85%` and `>=95%`) and non-zero `NetErr:` counters inside the Pod Detail view.\n- **Navigation, CLI, Docs & Load Test Fixtures (`application/`, `config/`, `cmd/`, `ui/`, `docs/`, `hack/load-test/`)**: Registered `[4] Storage` (`PageStorage`) and `[5] Network` (`PageNetwork`), added `storage` and `network` to `--page` / `ui.default_page` validation and `ui.StorageContext` / `ui.NetworkContext` footers, updated `docs/cli.md`, `docs/noui.md`, and `docs/prometheus.md`, and expanded `hack/load-test/` with live PVC/PV disk I/O and Service/Ingress/HTTP traffic workloads.\n\n---\n\n## Upgrade & Compatibility Notes\n\n- **Backward Compatibility**: Fully compatible with existing CLI flags, `kubectl ktop` plugin invocation, `~/.ktop/config.yaml`, and existing `--noui` JSON/JSONL consumers; new `storage`, `network`, and per-pod fields are additive with `omitempty`.\n- **RBAC Resilience**: `StorageClass`, `Service`, `EndpointSlice`, and `Ingress` informers probe cluster permissions on startup and degrade without error if RBAC restricts listing optional resources.\n- **Deprecations & Migration Actions**: None.\n\n---\n\n## Repository Metrics\n\n```text\n43 files changed, 5423 insertions(+), 86 deletions(-)\n```\n\n- **Documentation**:\n  - [CLI Reference](https://github.com/vladimirvivien/ktop/blob/main/docs/cli.md)\n  - [Non-Interactive Mode (`--noui`)](https://github.com/vladimirvivien/ktop/blob/main/docs/noui.md)\n  - [Prometheus Integration](https://github.com/vladimirvivien/ktop/blob/main/docs/prometheus.md)\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/vladimirvivien/ktop/releases/459508589/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
